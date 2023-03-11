@@ -1,0 +1,9 @@
+.image_container img{
+    max-width: 100%;
+}
+
+.image_container{
+    border: 1px solid grey;
+    margin: 10px;
+    padding: 2px;
+}
